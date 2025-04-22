@@ -88,7 +88,7 @@ AMS/                           # Root folder
 ├── Restaurant.java            # Domain model
 ├── Payment.java               # Domain model
 └── User.java                  # Domain model
-````
+```
 
 ## Build & Run
 
@@ -96,7 +96,7 @@ AMS/                           # Root folder
 2. Compile all Java files:
    ```bash
    javac -cp ".;lib\mysql-connector-j-9.3.0.jar" *.java
-````
+```
 
 3. Run the application:
    ```bash
