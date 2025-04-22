@@ -94,14 +94,14 @@ AMS/                           # Root folder
 
 1. Open a terminal in the project root (`AMS/`).
 2. Compile all Java files:
-   ```bash
+```bash
    javac -cp ".;lib\mysql-connector-j-9.3.0.jar" *.java
 ```
 
 3. Run the application:
-   ```bash
+```bash
    java  -cp ".;lib\mysql-connector-j-9.3.0.jar" AccommodationSystem
-   ```
+```
 
 ## Usage
 
